@@ -206,7 +206,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: './img/sebipino.png',
+            image: './img/sebipino.jpeg',
             description: 'So how did we end up eating a Filipino restaurant, in an area now known as Miami\'s Little Manila?',
             location: {
                 center: [-80.19000, 25.77480],
