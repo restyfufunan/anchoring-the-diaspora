@@ -564,7 +564,7 @@ var config = {
             id: 'pinoy-banner',
             alignment: 'full',
             hidden: false,
-            image: "./img/banner.png",
+            image: "./img/banner.jpeg",
             location: {
                 center: [-63.81147, 22.43484],
                 zoom: 3.85,
@@ -764,7 +764,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             description: "They're widening the street to create a more pedestrian-friendly downtown. The roads can be closed for street fairs, festivals, and other large events. ",
-            image: "./img/joggers.jpg",
+            image: "./img/joggers.jpeg",
             location: {
                 center: [-80.18939, 25.77429],
                 zoom: 22.00,
