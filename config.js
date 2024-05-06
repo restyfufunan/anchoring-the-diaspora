@@ -564,7 +564,7 @@ var config = {
             id: 'pinoy-banner',
             alignment: 'full',
             hidden: false,
-            image: "./img/banner.JPG",
+            image: "./img/banner.png",
             location: {
                 center: [-63.81147, 22.43484],
                 zoom: 3.85,
