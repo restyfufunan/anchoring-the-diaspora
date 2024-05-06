@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Little Manila</name>
+    <Style id="icon-1577-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1577-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1577-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Manila Kantina Buffet</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -80.189194,25.7744493,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aklan Buffet</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -80.1899774,25.7751313,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HQ Philippines Crew Services</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -80.1897437,25.7750835,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crew Stop Asian Groceries</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -80.1892304,25.7751636,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Villa Asian Fusion</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -80.1887758,25.7749736,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Filtrip Filipino Store</name>
+      <styleUrl>#icon-1577-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -80.1890272,25.7744173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
